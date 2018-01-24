@@ -1,0 +1,10 @@
+//myfirst.cpp--display a message
+#include <iostream>
+int main()
+{
+  using namespace std;                        //make definitions visible.
+  cout<<"Come up and c++ me some time.";
+  cout<<endl;                                 //start a new line.
+  cout<<"You won't regret it!"<<endl;
+  return 0;
+}
